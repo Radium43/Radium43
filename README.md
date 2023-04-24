@@ -7,6 +7,8 @@
 
 - 💬 Ask me about **Any think**
 
+-Alot of my Projects are private
+
 - 📫 How to reach me **njdouble15@gmail.com**
 
 - ⚡ Fun fact **I like Making Cheats,Auth,sites**
