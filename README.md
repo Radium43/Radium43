@@ -1,9 +1,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radium43&label=Profile%20views&color=0e75b6&style=flat" alt="radium43" /> </p>
 
-- 🔭 I’m currently working on **Divine**
+- 🔭 I’m currently working on **Alot of Stuff**
 
-- 👨‍💻 All of my projects are available at [https://discord.gg/PbvDSpCV8R](https://discord.gg/PbvDSpCV8R)
+- 👨‍💻 All of my projects are available at On Github
 
 - 💬 Ask me about **Any think**
 
